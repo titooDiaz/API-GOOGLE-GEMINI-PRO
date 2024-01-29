@@ -1,0 +1,4 @@
+#ARCHIVOS A IGNORAR
+#ENTORNO DE TRABAJO EN PYTHON (env) o (venv)
+env
+venv
